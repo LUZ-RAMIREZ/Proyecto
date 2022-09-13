@@ -1,0 +1,61 @@
+//
+git config --global user.name"Aura"
+//este comando es para poner nuestro nombre
+git config --global user.mail betty.ramirezrza@gmail.com
+//este comando es para configurar nuestro correo
+---------------------------------------------------
+//para verificar que se configuro de manera correcta 
+git config --list
+---------------------------------------------------
+// para hacer de nuestro proyecto el proyecto pricipal de git
+//primero creamos un archivo llamado README.md
+--------------------------------------------------
+//comando para crear archivos "touch"
+// README es una archivo un archivo que necesita git para describir... nos sirve para discribir sobre que trata nuestro proyecto.
+--------------------------------------------------
+tarea hacer un  readme sobre nuestros proyectos
+//marckdown
+averiguar que github
+--------------------------------------------------
+// para inicializar el proyecto en git
+--------------------------------------------------
+Pasos para usar git
+1. instalar git
+2. Abrir git bash
+3. Configuracion global git
+   git config --global user.name "luz"
+   git config --global user.mail @gmail.com
+   git config --list
+4. Crear espacio de trabajo(carpeta)
+   Mkdir
+   md
+5. Ingresar a la carpeta creada 
+   cd Nombre_carpeta
+6. Creamos una archivo REAME.md
+   touch README.md
+7. Inicializamos nuestro repositorio
+   git init
+1-3 Solamentamente la primera vez que instalamos git.
+4-7 cada vez que tengamos un proyecto nuevo.
+-----------------------------------------------------
+Para aprender poner nombres a nuestras carpetas
+1. Snake case
+consiste en escribir nombre con guiones 
+ejemplo:
+proyecto_primer_modulo
+2. Canel case
+ejemplo:
+proyectoPrimerModulo
+3. Pascal case
+ejemplo:
+ProyectoPrimerModulo
+-----------------------------------------------------
+LOS ESTADOS DE GIT 
+1. Modificado
+git status
+2. Staged
+3.CoMmit
+4.Push
+1-3 son estados local
+4 Git hub - HOST REMOTO, Git lab, Git bucket
+-----------------------------------------------------
