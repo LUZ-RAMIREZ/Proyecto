@@ -24,7 +24,7 @@ Pasos para usar git
 2. Abrir git bash
 3. Configuracion global git
    git config --global user.name "luz"
-   git config --global user.mail @gmail.com
+   git config --global user.email @gmail.com
    git config --list
 4. Crear espacio de trabajo(carpeta)
    Mkdir
@@ -54,8 +54,22 @@ LOS ESTADOS DE GIT
 1. Modificado
 git status
 2. Staged
+git add . //es para llevar todo los archivos en espera 
+git add README //es solo para poder llevar en espera a ese archivo.
 3.CoMmit
+git commit -m "aqui va un comentario de nuestro proyecto" Inicializacion de proyecto portafolio y creacion del archivo README
 4.Push
 1-3 son estados local
 4 Git hub - HOST REMOTO, Git lab, Git bucket
 -----------------------------------------------------
+1. configuracion global de GIT
+son los git config --global user.name "luz"
+   git config --global user.mail @gmail.com
+   git config --list
+2. Creacion de proyecto e inicializacion de repositorio
+// ingresar al archivo donde queremos guardar nuestro proyecto
+3. Hcer los commit de nuestras actualizaciones de nuestro proyecto
+son git status, git add, git commint 
+-------------------------------------------------------
+QUE ES GIT
+Es un sistema de control de proyectos
