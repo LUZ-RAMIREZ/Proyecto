@@ -73,3 +73,6 @@ son git status, git add, git commint
 -------------------------------------------------------
 QUE ES GIT
 Es un sistema de control de proyectos
+-------------------------------------------------------
+Entramos a la capeta de proyecto-portafolio y con code entramos a visual basic
+y en ahi creamos un index.html, con html.5
