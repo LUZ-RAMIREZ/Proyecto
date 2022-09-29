@@ -76,3 +76,8 @@ Es un sistema de control de proyectos
 -------------------------------------------------------
 Entramos a la capeta de proyecto-portafolio y con code entramos a visual basic
 y en ahi creamos un index.html, con html.5
+--------------------------------------------------------
+git pull es para actualizar
+git clone es para clonar.
+ y lo que hacemos es derigirir el proyecto que queremos clorar y copiamos su enlace
+ --------------------------------------------------------

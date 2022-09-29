@@ -1,0 +1,20 @@
+.Fondo{
+     height: 596px;
+     width: 80%;
+     background-color: rgb(222, 223, 223);
+}
+
+.central{
+    display: flex;
+    flex-direction: row;
+}
+.foto{
+    text-align:end;
+    width: 40%;
+}
+.datosPersonales{
+  text-align: center;
+  width: 60%;  
+}
+    
+
